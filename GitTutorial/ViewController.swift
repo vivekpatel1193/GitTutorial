@@ -12,8 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("abs")
-        print("sprint1 new issue branch")
+         print("sprint1 issue 2")
     }
 
 
