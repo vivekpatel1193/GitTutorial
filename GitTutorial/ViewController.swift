@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-         print("sprint1 issue 4 new")
+         print("sprint1 issue 4 new lastest")
     }
 
 
