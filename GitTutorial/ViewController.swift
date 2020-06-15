@@ -12,8 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-         print("new 13")
-        print("vivek sprint2 changes")
+        print("sprint2 main1")
     }
 
 
