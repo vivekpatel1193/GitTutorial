@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
          print("new 13")
+        print("sprint2 newissue 10 fixed")
     }
 
 
